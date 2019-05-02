@@ -1,5 +1,6 @@
 # WeatherApp
 A weather web application based on the openweathermap.org API, developed in React
+The project is Live here: https://majidnasiri.github.io/WeatherApplication/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
